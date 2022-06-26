@@ -20,5 +20,5 @@ Contoh:
     const element = <h1>Hello, world!<h1>;
 ```
 
-Sumber: [httpps://reactjs.org/](https://reactjs.org/)
+Sumber: [https://reactjs.org/](https://reactjs.org/)
 
